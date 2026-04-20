@@ -10,9 +10,6 @@
 ---
 
 ## 🖼️ App Preview
-
-## 🖼️ App Preview
-
 ![Danish Contact App](screenshots/app-preview.png)
 
 ---
