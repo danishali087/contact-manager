@@ -11,7 +11,9 @@
 
 ## 🖼️ App Preview
 
-> A clean, yellow-themed contact dashboard with card-based layout showing contact photo, name, email, and mobile — with quick action buttons for View, Edit, and Delete.
+## 🖼️ App Preview
+
+![Danish Contact App](screenshots/app-preview.png)
 
 ---
 
